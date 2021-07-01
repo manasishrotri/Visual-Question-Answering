@@ -5,7 +5,7 @@ Data was downloaded from: https://visualqa.org/
 Model architechture:
 ![image](https://user-images.githubusercontent.com/60999947/124189367-9716d800-da8e-11eb-8303-3dacd0442eb1.png) 
 
-[![Watch the video](https://user-images.githubusercontent.com/60999947/124189367-9716d800-da8e-11eb-8303-3dacd0442eb1.png)](https://youtu.be/hybvBA7NTUE)
+[![Watch the video](![image](https://user-images.githubusercontent.com/60999947/124190747-c62e4900-da90-11eb-8e33-f03be7c74005.png))](https://youtu.be/hybvBA7NTUE)
 
 Following is the video presentation demo of the results:
 
