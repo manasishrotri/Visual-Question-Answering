@@ -1,8 +1,14 @@
 # Visual-Question-Answering
 This project was performed at WPI Deep Learning class
-Following is the video presentation explaining data, model, results and demo
+Data was downloaded from: https://visualqa.org/
 
-Youtube Link(https://www.youtube.com/watch?v=PDTpBWwNxZs&t=44s)
+Model architechture:
+![image](https://user-images.githubusercontent.com/60999947/124189367-9716d800-da8e-11eb-8303-3dacd0442eb1.png)
+
+
+Following is the video presentation demo of the results:
+
+Youtube Link(https://youtu.be/hybvBA7NTUE)
 <div align="center">
       <a href="https://www.youtube.com/embed/PDTpBWwNxZs">
      <img 
